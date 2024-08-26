@@ -1,0 +1,15 @@
+formato de push
+
+git remote add origin https://github.com/jota0802/(nome do repositorio).git 
+git branch -M main
+git push -u origin main
+
+depois so git push
+
+
+é necessario colocar dependencias, entrar no packge.json 
+depois abrir terminal:
+npm install react-router-dom
+
+depois em main coloque:
+ import {createBrowserRoutes, RouterProvider} from 'react-router-dom'
