@@ -1,5 +1,9 @@
 formato de push
 
+git init
+git add .
+git commit -m ""
+
 git remote add origin https://github.com/jota0802/(nome do repositorio).git 
 git branch -M main
 git push -u origin main
