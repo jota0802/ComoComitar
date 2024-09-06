@@ -1,13 +1,12 @@
 formato de push
-
+git clone 
 git init
 git add .
 git commit -m ""
-
-git remote add origin https://github.com/jota0802/(nome do repositorio).git 
-git branch -M main
-git push (link) (branch)
-
+git branch -M (branch)
+git pull origin --allow-unrelated-histories
+git push origin (branch)
+ou
 
 
 é necessario colocar dependencias, entrar no packge.json 
